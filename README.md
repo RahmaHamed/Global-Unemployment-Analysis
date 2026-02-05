@@ -24,7 +24,9 @@ This repository contains a comprehensive Exploratory Data Analysis (EDA) and Pre
 
 ## Cluster,Financial Status,Employment Composition,Key Takeaway
 **Cluster 0**,Moderate Income,"75% Employed, 25% Student ",Stable and predictable financial patterns.
+
 **Cluster 1**,Low Income / High Savings,"80% Self-employed, 5% Unemployed ",Irregular patterns; high savings likely due to synthetic data generation.
+
 **Cluster 2**,High Prosperity,"69% Employed, 31% Student ",Highest financial stability and savings-to-income ratios.
 
 
