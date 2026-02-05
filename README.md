@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This repository contains a comprehensive Exploratory Data Analysis (EDA) and Preprocessing pipeline for a global unemployment dataset. The research focuses on identifying structural shifts in labor markets across various countries, genders, and age groups over a ten-year period.
 
+This study investigates latent socioeconomic structures by applying unsupervised learning to a synthetic dataset of demographic and financial attributes. By moving beyond binary "employed/unemployed" labels, this research reveals how financial behavior such as savings and expenses intersects with demographic factors to form distinct population subgroups.
+
 ## 🛠️ Data Science Pipeline
 
 ### 1. Exploratory Data Analysis (EDA)
